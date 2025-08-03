@@ -50,6 +50,6 @@ print(pygame.__version__)
  Sound and images included
 
 ## About Me
-I'm Saniya Pathan - a beginner python developer and data Analysis
+I'm Saniya Pathan - a beginner python developer and data Analysis.
 Connect with me on LinkedIn: 
 https://www.linkedin.com/in/saniya-pathan-3a00b7354
